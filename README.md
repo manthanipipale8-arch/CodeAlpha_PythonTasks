@@ -5,7 +5,7 @@ This repository contains Python projects completed during the CodeAlpha Internsh
 ## Tasks:
 - Task 1: Hangman Game
 - Task 2: Stock Portfolio Tracker
-- Task 4: Basic Chatbot
+- Task 3: Basic Chatbot
 
 ## Technology:
 - Python
